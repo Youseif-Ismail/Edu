@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "start": "vite --host 0.0.0.0",
-    "build": "vite build"
+    "build": "vite build",
+    "serve": "php -S 0.0.0.0:8000 router.php"
   },
   "devDependencies": {
     "vite": "^7.1.7"

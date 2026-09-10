@@ -1,0 +1,3 @@
+/storage/*.sqlite
+/storage/*.sqlite-*
+/.phpunit.result.cache
